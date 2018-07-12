@@ -119,7 +119,7 @@ kubectl create -f replica.yml
 ```
 
 ### Test the service
-You can access our service under [https://<master ip>:30443](https://<master ip>:30443).
+You can access our service under [https://master_ip:30443](https://0.0.0.0:30443).
 
 ## Addon
 
